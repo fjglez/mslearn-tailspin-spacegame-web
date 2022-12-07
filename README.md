@@ -1,6 +1,5 @@
 
 # Contributing
-[![Build Status](https://dev.azure.com/fagonzalezgarcia/prueba-azure-3/_apis/build/status/fjglez.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/fagonzalezgarcia/prueba-azure-3/_build/latest?definitionId=1&branchName=build-pipeline)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
